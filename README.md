@@ -1,4 +1,9 @@
 # James-Lawrence-Samante
 Road to Success
 **New Era University**<br>
-**BSIT**
+**Course: BSIT** <br><br>
+
+Certificate <br><br>
+
+Skill Set
+Programming languages - Java, Sql
